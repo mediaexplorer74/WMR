@@ -4,6 +4,10 @@
 ## About
 Fullscreen application that mimics Windows10Mobile desktop with some user-friendly UI named... "WMR" :)
 
+## Screenshots
+![W11Tiny](Images/screenshot01.png)
+![W11Tiny](Images/screenshot02.png)
+
 ## Tech. details
 - I hope it compatible with Windows 11 Tiny (some os mods, with many, many cutted things)
 - Target Framework: .NET 8.0
@@ -16,10 +20,12 @@ Fullscreen application that mimics Windows10Mobile desktop with some user-friend
 
 ## Features
 🟡 Start menu
+
 🟡 Taskbar
 
 ## ToDo
 ❌ Menu bar
+
 ❌ Task view
 
 ## Installation
