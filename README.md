@@ -16,8 +16,7 @@ Fullscreen application that mimics Windows10Mobile desktop with some user-friend
 - Minimal supported OS version: 10.0.17763.0 (hello, old sweet Win10-based poor notebooks))))
 
 ## My 2 cents
-- I tested this fine project. Ok, it's compiled (builded) ok, and it does work! ))))
-
+- I tested this fine project. Ok, it's sucessfully compiled (builded), and it does work! 
 ## Features
 🟡 Start menu
 
